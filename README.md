@@ -10,7 +10,7 @@ A userscript for [Tampermonkey](https://www.tampermonkey.net/) (or a compatible 
 
 1. Install a userscript manager such as Tampermonkey.
 2. Install the script from one of these:
-   - **Greasy Fork:** [papelblume user profile](https://greasyfork.org/en/users/1661462-papelblume)
+   - **Greasy Fork:** [Claude.ai - Auto-Continue After Limit Reset](https://update.greasyfork.org/scripts/604018/Claudeai%20-%20Auto-Continue%20After%20Limit%20Reset.user.js)
    - **GitHub:** [claude-limit-auto-continue.user.js](https://raw.githubusercontent.com/papelblume/claude-limit-auto-continue/main/claude-limit-auto-continue.user.js) (your userscript manager will offer to install it)
 3. Open [claude.ai](https://claude.ai). A small status pill appears while the script is running.
 
